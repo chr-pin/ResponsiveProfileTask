@@ -132,8 +132,20 @@
         margin: 1rem auto;
     }
 
+    .footer  {
+
+        font-size: 1.5rem;
+        
+     }
+
+     .footer ul li {
+        display: inline;
+        margin: 0.5rem;
+    }
+
     .footer ul a {
         color: rgb(122, 106, 85);
+        font-size: 1.2rem;
         text-decoration: none;
     }
 
@@ -166,8 +178,24 @@
         
     }
 
+    .footer {
+        font-size: 2rem;
+        padding: 2rem;
+    }
+    
+    .footer ul {
+        list-style: none;
+        margin-bottom: 3rem;
+    }
+    
+    .footer ul li {
+        display: inline-block;
+        margin: 2rem;
+    }
+   
     .footer ul a {
         color: rgb(40, 73, 57);
+        font-size: 2rem;
         text-decoration: none;
     }
 
